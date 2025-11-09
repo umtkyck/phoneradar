@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js
+web/.next/
+web/out/
+web/build/
+web/dist/
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+*.pem
+.idea/
+.vscode/
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# iOS
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+ios/Pods/
+*.ipa
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
+*.apk
+*.aab
+
+# System files
+Thumbs.db

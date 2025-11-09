@@ -1,0 +1,28 @@
+{
+  "name": "phoneradar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FLIR One benzeri BLE radar cihazı multi-platform uygulaması",
+  "workspaces": [
+    "web",
+    "shared"
+  ],
+  "scripts": {
+    "dev": "cd web && npm run dev",
+    "build": "cd web && npm run build",
+    "start": "cd web && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:41135/git/umtkyck/phoneradar"
+  },
+  "keywords": [
+    "radar",
+    "ble",
+    "flir",
+    "thermal",
+    "mobile"
+  ],
+  "author": "",
+  "license": "MIT"
+}
