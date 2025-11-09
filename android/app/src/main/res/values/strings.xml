@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PhoneRadar</string>
+    <string name="device_connection">Cihaz Bağlantısı</string>
+    <string name="scan_devices">Cihaz Ara</string>
+    <string name="stop_scanning">Taramayı Durdur</string>
+    <string name="scanning">Cihazlar aranıyor…</string>
+    <string name="no_devices">Başlamak için \'Cihaz Ara\' butonuna tıklayın</string>
+    <string name="connect">Bağlan</string>
+    <string name="disconnect">Bağlantıyı Kes</string>
+    <string name="battery">Batarya</string>
+    <string name="temperature">Sıcaklık</string>
+    <string name="distance">Mesafe</string>
+    <string name="signal">Sinyal</string>
+    <string name="radar_image">Radar Görüntüsü</string>
+    <string name="live_data">Canlı Veri</string>
+    <string name="simulation">Simülasyon</string>
+    <string name="bluetooth_required">Bluetooth Gerekli</string>
+    <string name="bluetooth_info">Cihazınızı telefonunuza takın ve açın</string>
+    <string name="permission_required">Bluetooth izni gerekli</string>
+</resources>
